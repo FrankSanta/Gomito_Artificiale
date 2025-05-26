@@ -9,28 +9,28 @@ Questo progetto, sviluppato nell'ambito del corso di "Meccanica Applicata alle M
 ### CONTENUTI DEL PROGETTO
 
 - **Schema cinematico** comprensivo di tre parti principali: il glifo (meccanismo con asta e corsoio), il quadrilatero articolato (bilancieri e biella) e l'avambraccio (corpo rigido con baricentro e massa concentrata).
-  ![Schema cinematico](schema_cinematico.jpg)
+  ![Schema cinematico](img/schema_cinematico.jpg)
 - **Analisi cinematica**, con calcoli di velocità, accelerazioni lineari e angolari dei punti principali del sistema mediante MATLAB.
-  ![Analisi cinematico](schema_cinematico_velocità_accelerazione.jpg)
+  ![Analisi cinematico](img/schema_cinematico_velocità_accelerazione.jpg)
 - **Legge di moto**, descrizione e simulazione del movimento della protesi nel tempo.
-  ![Legge di moto](legge_moto.jpg)
+  ![Legge di moto](img/legge_moto.jpg)
 - **Analisi dinamica**, determinazione delle coppie motrici e forze necessarie tramite equilibri dinamici.
-  ![Analisi dinamica](forze.jpg)
+  ![Analisi dinamica](img/forze.jpg)
 - **Azionamento motore**, calcolo della coppia ideale, potenza assorbita e capacità massima di sollevamento.
-  ![Azionamento motore](azionamento_motore.jpg)
+  ![Azionamento motore](img/azionamento_motore.jpg)
 - **Studio delle vibrazioni**, inclusa la definizione e simulazione della risposta dinamica del sistema a forzanti esterne armoniche.
-  ![Funzione di trasferimento](funzione_trasferimento.jpg)
-  ![Coefficiente di trasmissibilità](coeff_trasmissibilità.jpg)
-  ![Risposta smorzata](risposta_smorzata.jpg)
-  ![Risposta a C1](risposta_c1.jpg)
-  ![Risposta a C2](risposta_c2.jpg)
-  ![Risposta totale](risposta_totale.jpg)
+  ![Funzione di trasferimento](img/funzione_trasferimento.jpg)
+  ![Coefficiente di trasmissibilità](img/coeff_trasmissibilità.jpg)
+  ![Risposta smorzata](img/risposta_smorzata.jpg)
+  ![Risposta a C1](img/risposta_c1.jpg)
+  ![Risposta a C2](img/risposta_c2.jpg)
+  ![Risposta totale](img/risposta_totale.jpg)
   
 
 ### FILE PRINCIPALI
 
 - `main.m`: Script MATLAB completo che implementa tutte le analisi sopracitate.
-- `Report-ITA.pdf`: Relazione tecnica contenente la procedura completa, immagini e risultati dell'elaborato. che implementa tutte le analisi sopracitate.
+- `Report-ITA.pdf`: Relazione tecnica contenente la procedura completa, immagini e risultati dell'elaborato che implementa tutte le analisi sopracitate.
 
 ### STRUMENTI
 
@@ -59,28 +59,28 @@ This project, developed as part of the "Applied Mechanics" course at Politecnico
 ### PROJECT CONTENTS
 
 - **Kinematic scheme**, including three main components: the glyph (mechanism with rod and slider), the articulated quadrilateral (rockers and connecting rod), and the forearm (rigid body with center of mass and concentrated mass).
-  ![Kinematic scheme](schema_cinematico.jpg)
+  ![Kinematic scheme](img/schema_cinematico.jpg)
 - **Kinematic analysis**, including linear and angular velocities and accelerations calculations of critical points using MATLAB.
-  ![Kinematic analysis](schema_cinematico_velocità_accelerazione.jpg)
+  ![Kinematic analysis](img/schema_cinematico_velocità_accelerazione.jpg)
 - **Motion law**, describing and simulating the prosthesis movement over time.
-  ![Motion Law](legge_moto.jpg)
+  ![Motion Law](img/legge_moto.jpg)
 - **Dynamic analysis**, determining required driving torque and equilibrium forces through dynamic equilibrium equations.
-  ![Dynamic analysis](forze.jpg)
+  ![Dynamic analysis](img/forze.jpg)
 - **Motor actuation analysis**, calculating ideal torque, absorbed power, and maximum lifting capacity.
-  ![Motor actuation analysis](azionamento_motore.jpg)
+  ![Motor actuation analysis](img/azionamento_motore.jpg)
 - **Vibration study**, defining and simulating the dynamic system response to external harmonic forces.
-  ![Transfer function](funzione_trasferimento.jpg)
-  ![Transmissibility coefficient](coeff_trasmissibilità.jpg)
-  ![Damped response](risposta_smorzata.jpg)
-  ![Response to C1](risposta_c1.jpg)
-  ![Response to C2](risposta_c2.jpg)
-  ![Total response](risposta_totale.jpg)
+  ![Transfer function](img/funzione_trasferimento.jpg)
+  ![Transmissibility coefficient](img/coeff_trasmissibilità.jpg)
+  ![Damped response](img/risposta_smorzata.jpg)
+  ![Response to C1](img/risposta_c1.jpg)
+  ![Response to C2](img/risposta_c2.jpg)
+  ![Total response](img/risposta_totale.jpg)
 
 
 ### MAIN FILES
 
 - `main.m`: Complete MATLAB script implementing all described analyses.
-- `Report-ITA.pdf`: Technical report including full procedure, images, and results of the study. implementing all described analyses.
+- `Report-ITA.pdf`: Technical report including full procedure, images, and results of the study implementing all the described analyses.
 
 ### TOOLS
 
