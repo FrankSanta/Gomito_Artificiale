@@ -8,8 +8,6 @@ Questo progetto, sviluppato per il corso di "Meccanica Applicata alle Macchine" 
 
 ### CONTENUTI DEL PROGETTO
 
-### CONTENUTI DEL PROGETTO
-
 - **Schema cinematico** comprensivo di tre parti principali: il glifo (meccanismo con asta e corsoio), il quadrilatero articolato (bilancieri e biella) e l'avambraccio (corpo rigido con baricentro e massa concentrata).
 <p align="center">
   <img src="img/schema_cinematico.jpg" alt="Schema cinematico" width="600"/>
