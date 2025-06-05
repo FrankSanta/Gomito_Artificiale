@@ -77,8 +77,6 @@ This project, developed as part of the "Applied Mechanics" course at Politecnico
 
 ### PROJECT CONTENTS
 
-### PROJECT CONTENTS
-
 - **Kinematic scheme**, including three main components: the glyph (mechanism with rod and slider), the articulated quadrilateral (rockers and connecting rod), and the forearm (rigid body with center of mass and concentrated mass).
 <p align="center">
   <img src="img/schema_cinematico.jpg" alt="Kinematic scheme" width="600"/>
@@ -114,8 +112,6 @@ This project, developed as part of the "Applied Mechanics" course at Politecnico
   <img src="img/risposta_c2.jpg" alt="Response to C2" width="600"/><br/>
   <img src="img/risposta_totale.jpg" alt="Total response" width="600"/>
 </p>
-
-
 
 ### MAIN FILES
 
